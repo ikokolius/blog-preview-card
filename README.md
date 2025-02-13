@@ -56,4 +56,4 @@ I haven't still figured out how to set different font sizes for desktop and mobi
 ## Author
 
 - LinkedIn - [Iryna Kokolius](https://linkedin.com/in/iryna-kokolius)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ikokolius)
+- Frontend Mentor - [Iryna Kokolius](https://www.frontendmentor.io/profile/ikokolius)
